@@ -4,8 +4,6 @@ My implementations for exercises found in 'Cracking the Coding Interview 6th Edi
 Current Progress:
 
 
-Python:
-
-Chapter 1 - Partial
-
-Chapter 2 - Partial
+Python:\
+Chapter 1 - Partial\
+Chapter 2 - Partial\
