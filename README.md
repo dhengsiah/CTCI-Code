@@ -6,4 +6,4 @@ Current Progress:
 
 Python:\
 Chapter 1 - Partial\
-Chapter 2 - Partial\
+Chapter 2 - Partial
