@@ -33,14 +33,11 @@ def removekthfromlast(LL,k):
     
     while forward.nextNode != None:
         
-        if delay >0:
-            delay -= 1
-            forward = forward.nextNode
-        else:
-            forward = forward.nextNode
+        forward = forward.nextNode
+        delay -=1
+        
+        if delay <= 0:
             back = back.nextNode
-            
-    
     
     if delay > 0:
         return None
